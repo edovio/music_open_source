@@ -13,7 +13,7 @@ creation using the web support.
 
 ### Code of Conduct
 
-This project adheres to the Contributor Covenant [code of conduct](https://github.com/edovio/Open_Student_Book/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. 
+This project adheres to the Contributor Covenant [code of conduct](https://github.com/edovio/music_open_source/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. 
 Please report unacceptable behavior to [edovio@gmail.com](mailto:edovio@gmail.com).
 
 ### Important Resources
