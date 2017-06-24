@@ -42,7 +42,7 @@ If you notice a bug, or if you have a request for new features or content, the e
 Please share your ideas and your first comment in our [README FILE](https://github.com/edovio/music_open_source/blob/master/README.md)
 
 ### How Report a Bug
-Have you found a Bug or want to propose some changes? please share your idea in our [Official Channel](https://gitter.im/music_open_source/Lobby. Don't have access. [Contact Us](edovio@gmail.com).
+Have you found a Bug or want to propose some changes? please share your idea in our [Official Channel](https://gitter.im/music_open_source/Lobby). Don't have access. [Contact Us](edovio@gmail.com).
 
 ### Recognition
 more details coming soon!
