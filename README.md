@@ -14,7 +14,7 @@ Creative Commons helps you legally share your knowledge and creativity to build 
 
 ## The Open Source movement
 To introduce you what is the Open Source movement I prefer to use a little Lego Video:
-[![Open Source Video](https://www.youtube.com/watch?v=a8fHgx9mE5U)
+[Open Source Video](https://www.youtube.com/watch?v=a8fHgx9mE5U)
 
 If you like to know more details about the basics of participation, collaboration, and sharing on community-driven projects get a free course here: [Open Leadership 101](https://mozilla.teachable.com/p/open-leadership-101)
 
