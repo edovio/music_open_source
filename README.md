@@ -1,6 +1,7 @@
 # Music Open Source
 
 [![Join the chat at https://gitter.im/music_open_source/Lobby](https://badges.gitter.im/music_open_source/Lobby.svg)](https://gitter.im/music_open_source/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Music Open Source Project have the goal to create a community of Musician, Composer, Singer in order to create a Open Source Song Composition Library sharable and usable by the community members and other. Everyone could ask or make a first release of a new Song Composition and everyone can product, arrange or edit (accordly at the Creative Commons Right selected by the author). Today the innovation pass between the web, why not the music.
 
 ## What do you need to contribute
