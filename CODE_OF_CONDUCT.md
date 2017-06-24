@@ -1,5 +1,5 @@
 # Code of Conduct
-** Music Open Source** is a project born to make a brief guide to interest Students in the Open Source community. 
+**Music Open Source** is a project born to make a brief guide to interest Students in the Open Source community. 
 We value the participation of every university student, teacher, researcher, Ph or worker with an University Degree and want 
 all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the interactions online associated or community call with the OpenStudentBook Project.
 
