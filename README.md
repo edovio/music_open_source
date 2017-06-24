@@ -18,6 +18,6 @@ To introduce you what is the Open Source movement I prefer to use a little Lego 
 
 If you like to know more details about the basics of participation, collaboration, and sharing on community-driven projects get a free course here: [Open Leadership 101](https://mozilla.teachable.com/p/open-leadership-101)
 
-For more information about how contribute see the [Contribution Document]()
+For more information about how contribute see the [Contribution Document](https://github.com/edovio/music_open_source/blob/master/CONTRIBUTING.md)
 For more details about the Project [Contact me](mailto:edovio@gmail.com)
 
