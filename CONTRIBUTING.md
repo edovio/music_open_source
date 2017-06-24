@@ -18,32 +18,31 @@ Please report unacceptable behavior to [edovio@gmail.com](mailto:edovio@gmail.co
 
 ### Important Resources
 
-* [README FILE](https://github.com/edovio/OpenStudentBook/blob/master/README.md)
-* [ROADMAP FILE](https://github.com/edovio/OpenStudentBook/blob/master/ROADMAP.md)
+* [README FILE](https://github.com/edovio/music_open_source/blob/master/README.md)
 
 ### List of Communication Channels
 
-* [Telgram Group](https://telegram.me/joinchat/B1cgtAocfekH_IHdviePDA)
-* [Etherpad](https://public.etherpad-mozilla.org/p/PlaybookUniversitario)
-* [Official Channel](https://chat.mozillaitalia.org/channel/openstudentbook)
+* [Telgram Group](https://t.me/joinchat/AAAAAENVRZe5xF54ak0oMA)
+* [Etherpad](https://public.etherpad-mozilla.org/p/MusicOpenSource)
+* [Official Channel](https://gitter.im/music_open_source/Lobby)
 
 ### How Submit Changes
 
 In order to submit Changes we defined few simple step.
-1. Fork Open_Student_Book Repo in a your
+1. Fork music_open_source Repo in a your
 2. Be sure that your fork is updated first to change something
 3. Change the code in your Repo
 4. Create a Pull request defining what you are changing and the issue related
 5. follow the status of your Pull request and if are needed explanation of the changes proposed
 
 ### How Submit Issues
-If you notice a bug, or if you have a request for new features or content, the easiest way to get involved is by submitting an issue on GitHub. Go to the [Open_Student_Book Issues Page](https://github.com/edovio/Open_Student_Book/issues) and then click the green `New issue` button. This requires a free GitHub account. If you don't feel like going through GitHub, you can also post on the Communication Channels or [contact me](mailto:edovio@gmail.com) directly.
+If you notice a bug, or if you have a request for new features or content, the easiest way to get involved is by submitting an issue on GitHub. Go to the [Music Open Source Issues Page](https://github.com/edovio/music_open_source/issues) and then click the green `New issue` button. This requires a free GitHub account. If you don't feel like going through GitHub, you can also post on the Communication Channels or [contact me](mailto:edovio@gmail.com) directly.
 
 ### Your Good First Bug
-Please share your ideas and your first comment in our [README FILE](https://github.com/edovio/OpenStudentBook/blob/master/README.md)
+Please share your ideas and your first comment in our [README FILE](https://github.com/edovio/music_open_source/blob/master/README.md)
 
 ### How Report a Bug
-Have you found a Bug or want to propose some changes? please share your idea in our [Official Channel](https://chat.mozillaitalia.org/channel/openstudentbook). Don't have access. [Contact Us](edovio@gmail.com).
+Have you found a Bug or want to propose some changes? please share your idea in our [Official Channel](https://gitter.im/music_open_source/Lobby. Don't have access. [Contact Us](edovio@gmail.com).
 
 ### Recognition
 more details coming soon!
